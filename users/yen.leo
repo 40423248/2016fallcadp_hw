@@ -54,7 +54,7 @@
 <v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="yen.20161016024451.1"><vh>CADP 課程倉儲</vh>
+<v t="yen.20161016024451.1" a="E"><vh>CADP 課程倉儲</vh>
 <v t="yen.20161016024451.2" a="E"><vh>課程時段與規劃</vh>
 <v t="yen.20161016024451.3"><vh>規劃、Wiki 與網誌</vh></v>
 </v>
@@ -114,6 +114,12 @@
 </v>
 <v t="leo.20161013190351.1" a="E"><vh>導入影片</vh>
 <v t="leo.20161013190351.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20161114175640.1" a="E"><vh>導入影片2</vh>
+<v t="leo.20161114175640.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20161114175904.1" a="E"><vh>導入影片3</vh>
+<v t="leo.20161114175904.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -275,7 +281,7 @@ print("hello")
 </t>
 <t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系 40423248 蔡昆傑
 
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
@@ -420,6 +426,8 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161013151511.1">&lt;section&gt;
 @others
 &lt;/section&gt;
+
+
 </t>
 <t tx="leo.20161013151511.10">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -707,6 +715,8 @@ make.start()
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
 </t>
 <t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -720,6 +730,40 @@ make.start()
 <t tx="leo.20161027151655.2">## Solvespace 四連桿模擬
 
 &lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
+</t>
+<t tx="leo.20161114175640.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114175640.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/187143262" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/187143262"&gt;cadp測試W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20161114175904.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114175904.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/187145026" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/187145026"&gt;cadp測試W2&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
