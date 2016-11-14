@@ -121,6 +121,12 @@
 <v t="leo.20161114175904.1" a="E"><vh>導入影片3</vh>
 <v t="leo.20161114175904.2"><vh>iframe 導入影片</vh></v>
 </v>
+<v t="leo.20161114180502.1" a="E"><vh>導入影片4</vh>
+<v t="leo.20161114180502.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20161114180542.1" a="E"><vh>導入影片5</vh>
+<v t="leo.20161114180542.2"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -764,6 +770,39 @@ make.start()
 &lt;iframe src="https://player.vimeo.com/video/187145026" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/187145026"&gt;cadp測試W2&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+</t>
+<t tx="leo.20161114180502.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114180502.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/188114893" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/188114893"&gt;cadp測試W5&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20161114180542.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161114180542.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/188793021" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/188793021"&gt;solvespace測試1&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
