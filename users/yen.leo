@@ -15,7 +15,7 @@
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
@@ -117,7 +117,7 @@
 <v t="leo.20161115165725.7"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161201164904.1" a="E"><vh>第十週</vh>
+<v t="leo.20161201164904.1"><vh>第十週</vh>
 <v t="leo.20161201164904.2" a="E"><vh>第十週</vh>
 <v t="leo.20161201164904.3"><vh>要做的事</vh></v>
 </v>
@@ -135,6 +135,46 @@
 </v>
 <v t="leo.20161201164904.6" a="E"><vh>相關課程</vh>
 <v t="leo.20161201164904.7"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+</v>
+<v t="leo.20161209115923.1"><vh>第十一週</vh>
+<v t="leo.20161209115923.2" a="E"><vh>第十一週</vh>
+<v t="leo.20161209115923.3"><vh>要做的事</vh></v>
+</v>
+<v t="leo.20161209115923.4" a="E"><vh>圖片</vh>
+<v t="leo.20161209115923.5"><vh>截圖</vh></v>
+</v>
+<v t="leo.20161209115923.6" a="E"><vh>圖片2</vh>
+<v t="leo.20161209115923.7"><vh>截圖2</vh></v>
+</v>
+<v t="leo.20161209115923.8" a="E"><vh>圖片3</vh>
+<v t="leo.20161209115923.9"><vh>截圖3</vh></v>
+</v>
+<v t="leo.20161209115923.10" a="E"><vh>心得</vh>
+<v t="leo.20161209115923.11"><vh>感想</vh></v>
+</v>
+<v t="leo.20161209115923.12" a="E"><vh>相關課程</vh>
+<v t="leo.20161209115923.13"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+</v>
+<v t="leo.20161209115925.1" a="E"><vh>第十二週</vh>
+<v t="leo.20161209115925.2" a="E"><vh>第十二週</vh>
+<v t="leo.20161209115925.3"><vh>要做的事</vh></v>
+</v>
+<v t="leo.20161209115925.4" a="E"><vh>圖片</vh>
+<v t="leo.20161209115925.5"><vh>截圖</vh></v>
+</v>
+<v t="leo.20161209115925.6" a="E"><vh>圖片2</vh>
+<v t="leo.20161209115925.7"><vh>截圖2</vh></v>
+</v>
+<v t="leo.20161209115925.8" a="E"><vh>圖片3</vh>
+<v t="leo.20161209115925.9"><vh>截圖3</vh></v>
+</v>
+<v t="leo.20161209115925.10" a="E"><vh>心得</vh>
+<v t="leo.20161209115925.11"><vh>感想</vh></v>
+</v>
+<v t="leo.20161209115925.12" a="E"><vh>相關課程</vh>
+<v t="leo.20161209115925.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
 <v t="leo.20161115164036.1"><vh>影片連結</vh>
@@ -173,11 +213,12 @@
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
+<v t="leo.20161209120829.1"><vh>@edit 20161106-1.md</vh></v>
 <v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -1025,6 +1066,188 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161201170015.2">####圖片3
 
 &lt;img src="data/SSmotion2.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161209115923.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20161209115923.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115923.11">####
+
+</t>
+<t tx="leo.20161209115923.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115923.13"># CAD 系列課程
+
+## 計算機程式
+## 網際內容管理
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 協同產品設計實習
+也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
+
+</t>
+<t tx="leo.20161209115923.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115923.3">## 第十一週
+
+####操作四連桿機構的模擬狀況,並截圖還有錄製影片
+</t>
+<t tx="leo.20161209115923.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115923.5">####圖片1
+
+&lt;img src="data/SSmotion.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161209115923.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115923.7">####圖片2
+
+&lt;img src="data/SSmotion1.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161209115923.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115923.9">####圖片3
+
+&lt;img src="data/SSmotion2.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161209115925.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20161209115925.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115925.11">####
+
+</t>
+<t tx="leo.20161209115925.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115925.13"># CAD 系列課程
+
+## 計算機程式
+## 網際內容管理
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 協同產品設計實習
+也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
+
+</t>
+<t tx="leo.20161209115925.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115925.3">## 第十二週
+
+####用Solvespace畫出挖洞的塊狀及棒狀配合件,並組合再一起
+</t>
+<t tx="leo.20161209115925.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115925.5">####圖片1
+
+&lt;img src="data/Bar01.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161209115925.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115925.7">####圖片2
+
+&lt;img src="data/Block01.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161209115925.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115925.9">####圖片3
+
+&lt;img src="data/assemble01.png" width= "800" /&gt;
 
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
