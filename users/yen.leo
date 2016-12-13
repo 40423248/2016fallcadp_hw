@@ -218,6 +218,7 @@
 <v t="leo.20161213183446.1"><vh>@edit Week5.md</vh></v>
 <v t="leo.20161213183700.1"><vh>@edit Week6.md</vh></v>
 <v t="leo.20161213183841.1"><vh>@edit Week7.md</vh></v>
+<v t="leo.20161213184039.1"><vh>@edit Week8.md</vh></v>
 </v>
 </v>
 </v>
