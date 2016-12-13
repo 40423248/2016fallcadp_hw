@@ -22,7 +22,7 @@
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
-<v t="amd.20161004083800.5" a="E"><vh>body</vh>
+<v t="amd.20161004083800.5"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
 <v t="amd.20161004095719.1"><vh>封面投影片</vh>
@@ -211,10 +211,7 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
-<v t="leo.20161209120829.1"><vh>@edit 20161106-1.md</vh></v>
-<v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit Week1.md</vh></v>
 </v>
 </v>
 </v>
