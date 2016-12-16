@@ -22,7 +22,7 @@
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
-<v t="amd.20161004083800.5"><vh>body</vh>
+<v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
 <v t="amd.20161004095719.1"><vh>封面投影片</vh>
@@ -31,8 +31,8 @@
 <v t="yen.20161016024324.1"><vh>快捷鍵</vh>
 <v t="yen.20161016024324.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20161013151511.1"><vh>第一週</vh>
-<v t="leo.20161013151511.2"><vh>第一週</vh>
+<v t="leo.20161013151511.1" a="E"><vh>第一週</vh>
+<v t="leo.20161013151511.2" a="E"><vh>第一週</vh>
 <v t="leo.20161013151511.3"><vh>要做的事</vh></v>
 </v>
 <v t="leo.20161013151511.4"><vh>心得</vh>
@@ -227,7 +227,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
