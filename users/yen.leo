@@ -95,7 +95,7 @@
 <v t="leo.20161115162319.7"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161115164625.1" a="E"><vh>第六週</vh>
+<v t="leo.20161115164625.1"><vh>第六週</vh>
 <v t="leo.20161115164625.2" a="E"><vh>第六週</vh>
 <v t="leo.20161115164625.3"><vh>要做的事</vh></v>
 </v>
@@ -104,6 +104,28 @@
 </v>
 <v t="leo.20161115164625.8"><vh>相關課程</vh>
 <v t="leo.20161115164625.9"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+</v>
+<v t="leo.20161216110749.1"><vh>第七週</vh>
+<v t="leo.20161216110749.2" a="E"><vh>第七週</vh>
+<v t="leo.20161216110749.3"><vh>要做的事</vh></v>
+</v>
+<v t="leo.20161216110749.4" a="E"><vh>心得</vh>
+<v t="leo.20161216110749.5"><vh>感想</vh></v>
+</v>
+<v t="leo.20161216110749.6"><vh>相關課程</vh>
+<v t="leo.20161216110749.7"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+</v>
+<v t="leo.20161216110855.1"><vh>第八週</vh>
+<v t="leo.20161216110855.2" a="E"><vh>第八週</vh>
+<v t="leo.20161216110855.3"><vh>要做的事</vh></v>
+</v>
+<v t="leo.20161216110855.4" a="E"><vh>心得</vh>
+<v t="leo.20161216110855.5"><vh>感想</vh></v>
+</v>
+<v t="leo.20161216110855.6"><vh>相關課程</vh>
+<v t="leo.20161216110855.7"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
 <v t="leo.20161115165725.1"><vh>第九週</vh>
@@ -1257,6 +1279,112 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161209115925.9">####圖片3
 
 &lt;img src="data/assemble01.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20161216110749.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20161216110749.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216110749.3">## 第七週
+
+####
+
+####
+
+####</t>
+<t tx="leo.20161216110749.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216110749.5">####
+
+####
+</t>
+<t tx="leo.20161216110749.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216110749.7"># CAD 系列課程
+
+## 計算機程式
+## 網際內容管理
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 協同產品設計實習
+也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
+
+</t>
+<t tx="leo.20161216110855.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20161216110855.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216110855.3">## 第八週
+
+####
+
+####
+
+####</t>
+<t tx="leo.20161216110855.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216110855.5">####
+
+####
+</t>
+<t tx="leo.20161216110855.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216110855.7"># CAD 系列課程
+
+## 計算機程式
+## 網際內容管理
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 協同產品設計實習
+也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
 
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
