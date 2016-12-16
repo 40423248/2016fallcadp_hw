@@ -106,7 +106,7 @@
 <v t="leo.20161115164625.9"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161216110749.1" a="E"><vh>第七週</vh>
+<v t="leo.20161216110749.1"><vh>第七週</vh>
 <v t="leo.20161216110749.2" a="E"><vh>第七週</vh>
 <v t="leo.20161216110749.3"><vh>要做的事</vh></v>
 </v>
@@ -159,18 +159,12 @@
 <v t="leo.20161201164904.7"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161209115923.1"><vh>第十一週</vh>
+<v t="leo.20161209115923.1" a="E"><vh>第十一週</vh>
 <v t="leo.20161209115923.2" a="E"><vh>第十一週</vh>
 <v t="leo.20161209115923.3"><vh>要做的事</vh></v>
 </v>
 <v t="leo.20161209115923.4" a="E"><vh>圖片</vh>
 <v t="leo.20161209115923.5"><vh>截圖</vh></v>
-</v>
-<v t="leo.20161209115923.6" a="E"><vh>圖片2</vh>
-<v t="leo.20161209115923.7"><vh>截圖2</vh></v>
-</v>
-<v t="leo.20161209115923.8" a="E"><vh>圖片3</vh>
-<v t="leo.20161209115923.9"><vh>截圖3</vh></v>
 </v>
 <v t="leo.20161209115923.10" a="E"><vh>心得</vh>
 <v t="leo.20161209115923.11"><vh>感想</vh></v>
@@ -1146,7 +1140,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161209115923.3">## 第十一週
 
-####操作四連桿機構的模擬狀況,並截圖還有錄製影片
+####校慶週停止上課,組長帶我們去吃不銠鍋
 </t>
 <t tx="leo.20161209115923.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1159,35 +1153,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161209115923.5">####圖片1
 
-&lt;img src="data/SSmotion.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20161209115923.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161209115923.7">####圖片2
-
-&lt;img src="data/SSmotion1.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20161209115923.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161209115923.9">####圖片3
-
-&lt;img src="data/SSmotion2.png" width= "800" /&gt;
+&lt;img src="data/Week11 hot pot.jpg" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161209115925.1">&lt;section&gt;
