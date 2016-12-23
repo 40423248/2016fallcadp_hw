@@ -139,7 +139,7 @@
 <v t="leo.20161115165725.7"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161201164904.1" a="E"><vh>第十週</vh>
+<v t="leo.20161201164904.1"><vh>第十週</vh>
 <v t="leo.20161201164904.2" a="E"><vh>第十週</vh>
 <v t="leo.20161201164904.3"><vh>要做的事</vh></v>
 </v>
@@ -159,7 +159,7 @@
 <v t="leo.20161201164904.7"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161209115923.1"><vh>第十一週</vh>
+<v t="leo.20161209115923.1" a="E"><vh>第十一週</vh>
 <v t="leo.20161209115923.2" a="E"><vh>第十一週</vh>
 <v t="leo.20161209115923.3"><vh>要做的事</vh></v>
 </v>
@@ -1326,11 +1326,9 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161216110749.3">## 第七週
 
-####111222
+####練習四連桿機構繪畫
 
-####
-
-####</t>
+</t>
 <t tx="leo.20161216110749.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1381,9 +1379,7 @@ DEFAULT_DATE = 'fs'</t>
 
 ####
 
-####
-
-####</t>
+</t>
 <t tx="leo.20161216110855.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
