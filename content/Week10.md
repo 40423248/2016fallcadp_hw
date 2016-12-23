@@ -8,8 +8,9 @@ fgh Week10
 
 操作四連桿機構的模擬狀況,並截圖還有錄製影片
 
-<img src="data/SSmotion.png" width= "800" />
+<img src="./../data/SSmotion.png" width= "800" />
 
-<img src="data/SSmotion1.png" width= "800" />
+<img src="./../data/SSmotion1.png" width= "800" />
 
-<img src="data/SSmotion2.png" width= "800" />
+<img src="./../data/SSmotion2.png" width= "800" />
+
