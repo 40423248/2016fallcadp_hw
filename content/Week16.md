@@ -13,3 +13,10 @@ bnm
 <img src="./../data/P2.png" width= "800" />
 
 <img src="./../data/AS1.png" width= "800" />
+
+<a href="https://cad.onshape.com/documents/b580d019a0de0daf8e47d703/w/9b30a383f6ffc2fc013464f1/e/a0b46390b6c0894da932dcea>P1</a>
+
+
+<a href="https://cad.onshape.com/documents/b580d019a0de0daf8e47d703/w/9b30a383f6ffc2fc013464f1/e/be4df0d1f0c084c5e807324a>P2</a>
+
+<a href="https://cad.onshape.com/documents/b580d019a0de0daf8e47d703/w/9b30a383f6ffc2fc013464f1/e/abda9011943f1aea55321149>AS1</a>

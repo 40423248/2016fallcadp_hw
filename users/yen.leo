@@ -106,7 +106,7 @@
 <v t="leo.20161115164625.9"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161216110749.1" a="E"><vh>第七週</vh>
+<v t="leo.20161216110749.1"><vh>第七週</vh>
 <v t="leo.20161216110749.2" a="E"><vh>第七週</vh>
 <v t="leo.20161216110749.3"><vh>要做的事</vh></v>
 </v>
@@ -226,6 +226,9 @@
 <v t="leo.20161223113150.8" a="E"><vh>圖片3</vh>
 <v t="leo.20161223113150.9"><vh>截圖3</vh></v>
 </v>
+<v t="leo.20170106112434.1" a="E"><vh>圖片4</vh>
+<v t="leo.20170106112434.2"><vh>截圖4</vh></v>
+</v>
 <v t="leo.20161223113150.10" a="E"><vh>心得</vh>
 <v t="leo.20161223113150.11"><vh>感想</vh></v>
 </v>
@@ -234,7 +237,7 @@
 </v>
 </v>
 <v t="leo.20161223113226.1"><vh>第十五週</vh>
-<v t="leo.20161223113226.2" a="E"><vh>第十五週</vh>
+<v t="leo.20161223113226.2"><vh>第十五週</vh>
 <v t="leo.20161223113226.3"><vh>要做的事</vh></v>
 </v>
 <v t="leo.20161223113226.4" a="E"><vh>圖片</vh>
@@ -253,7 +256,7 @@
 <v t="leo.20161223113226.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20170106100041.1"><vh>第十六週</vh>
+<v t="leo.20170106100041.1" a="E"><vh>第十六週</vh>
 <v t="leo.20170106100041.2" a="E"><vh>第十六週</vh>
 <v t="leo.20170106100041.3"><vh>要做的事</vh></v>
 </v>
@@ -1538,7 +1541,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161223113150.11">####
+<t tx="leo.20161223113150.11">####就像以前高職上過的機件原理,抓特定的點來讓四連桿做往復運動,但是
 
 </t>
 <t tx="leo.20161223113150.12">&lt;section data-markdown&gt;
@@ -1570,7 +1573,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.3">## 第十四週
 
-####
+####了解另外的四連桿機構,由線架構來得知運動路徑
 </t>
 <t tx="leo.20161223113150.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1583,7 +1586,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.5">####圖片1
 
-&lt;img src="" width= "800" /&gt;
+&lt;img src="fourbar.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113150.6">&lt;section data-markdown&gt;
@@ -1597,7 +1600,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.7">####圖片2
 
-&lt;img src="" width= "800" /&gt;
+&lt;img src="fourbar30.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113150.8">&lt;section data-markdown&gt;
@@ -1611,7 +1614,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.9">####圖片3
 
-&lt;img src="" width= "800" /&gt;
+&lt;img src="fourbar50.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113226.1">&lt;section&gt;
@@ -1753,6 +1756,10 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20170106100041.3">## 第十六週
 
 ####用OnShape畫出課程指定的連桿機構零件,在限制各部位的條件
+
+
+
+
 </t>
 <t tx="leo.20170106100041.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1794,6 +1801,20 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20170106100041.9">####圖片3
 
 &lt;img src="data/AS1.png" width= "800" /&gt;
+
+</t>
+<t tx="leo.20170106112434.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106112434.2">####圖片4
+
+&lt;img src="fourbar60.png" width= "800" /&gt;
 
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
