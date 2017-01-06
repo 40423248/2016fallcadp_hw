@@ -270,18 +270,12 @@
 <v t="leo.20170106100041.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20170106115841.1"><vh>第十七週</vh>
+<v t="leo.20170106115841.1" a="E"><vh>第十七週</vh>
 <v t="leo.20170106115841.2" a="E"><vh>第十七週</vh>
 <v t="leo.20170106115841.3"><vh>要做的事</vh></v>
 </v>
 <v t="leo.20170106115841.4" a="E"><vh>圖片</vh>
 <v t="leo.20170106115841.5"><vh>截圖</vh></v>
-</v>
-<v t="leo.20170106115841.6" a="E"><vh>圖片2</vh>
-<v t="leo.20170106115841.7"><vh>截圖2</vh></v>
-</v>
-<v t="leo.20170106115841.8" a="E"><vh>圖片3</vh>
-<v t="leo.20170106115841.9"><vh>截圖3</vh></v>
 </v>
 <v t="leo.20170106115841.10" a="E"><vh>心得</vh>
 <v t="leo.20170106115841.11"><vh>感想</vh></v>
@@ -1869,34 +1863,6 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20170106115841.5">####圖片1
 
 &lt;img src="data/P1.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20170106115841.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170106115841.7">####圖片2
-
-&lt;img src="data/P2.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20170106115841.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170106115841.9">####圖片3
-
-&lt;img src="data/AS1.png" width= "800" /&gt;
 
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
