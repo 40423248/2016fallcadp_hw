@@ -207,7 +207,7 @@
 <v t="leo.20161216114421.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161223113150.1"><vh>第十四週</vh>
+<v t="leo.20161223113150.1" a="E"><vh>第十四週</vh>
 <v t="leo.20161223113150.2" a="E"><vh>第十四週</vh>
 <v t="leo.20161223113150.3"><vh>要做的事</vh></v>
 </v>
@@ -230,7 +230,7 @@
 <v t="leo.20161223113150.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161223113226.1"><vh>第十五週</vh>
+<v t="leo.20161223113226.1" a="E"><vh>第十五週</vh>
 <v t="leo.20161223113226.2"><vh>第十五週</vh>
 <v t="leo.20161223113226.3"><vh>要做的事</vh></v>
 </v>
@@ -1567,7 +1567,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.5">####圖片1
 
-&lt;img src="fourbar.png" width= "800" /&gt;
+&lt;img src="data/fourbar.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113150.6">&lt;section data-markdown&gt;
@@ -1581,7 +1581,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.7">####圖片2
 
-&lt;img src="fourbar30.png" width= "800" /&gt;
+&lt;img src="data/fourbar30.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113150.8">&lt;section data-markdown&gt;
@@ -1595,7 +1595,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113150.9">####圖片3
 
-&lt;img src="fourbar50.png" width= "800" /&gt;
+&lt;img src="data/fourbar50.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113226.1">&lt;section&gt;
@@ -1795,7 +1795,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20170106112434.2">####圖片4
 
-&lt;img src="fourbar60.png" width= "800" /&gt;
+&lt;img src="data/fourbar60.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20170106115841.1">&lt;section&gt;
