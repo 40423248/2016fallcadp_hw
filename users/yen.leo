@@ -193,18 +193,12 @@
 <v t="leo.20161209115925.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161216114421.1"><vh>第十三週</vh>
+<v t="leo.20161216114421.1" a="E"><vh>第十三週</vh>
 <v t="leo.20161216114421.2" a="E"><vh>第十三週</vh>
 <v t="leo.20161216114421.3"><vh>要做的事</vh></v>
 </v>
 <v t="leo.20161216114421.4" a="E"><vh>圖片</vh>
 <v t="leo.20161216114421.5"><vh>截圖</vh></v>
-</v>
-<v t="leo.20161216114421.6" a="E"><vh>圖片2</vh>
-<v t="leo.20161216114421.7"><vh>截圖2</vh></v>
-</v>
-<v t="leo.20161216114421.8" a="E"><vh>圖片3</vh>
-<v t="leo.20161216114421.9"><vh>截圖3</vh></v>
 </v>
 <v t="leo.20161216114421.10" a="E"><vh>心得</vh>
 <v t="leo.20161216114421.11"><vh>感想</vh></v>
@@ -256,7 +250,7 @@
 <v t="leo.20161223113226.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20170106100041.1" a="E"><vh>第十六週</vh>
+<v t="leo.20170106100041.1"><vh>第十六週</vh>
 <v t="leo.20170106100041.2" a="E"><vh>第十六週</vh>
 <v t="leo.20170106100041.3"><vh>要做的事</vh></v>
 </v>
@@ -1495,35 +1489,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161216114421.5">####圖片1
 
-&lt;img src="data/Bar01.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20161216114421.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161216114421.7">####圖片2
-
-&lt;img src="data/Block01.png" width= "800" /&gt;
-
-</t>
-<t tx="leo.20161216114421.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161216114421.9">####圖片3
-
-&lt;img src="data/assemble01.png" width= "800" /&gt;
+&lt;img src="data/bar block html.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113150.1">&lt;section&gt;
