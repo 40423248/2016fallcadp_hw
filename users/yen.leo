@@ -173,7 +173,7 @@
 <v t="leo.20161209115923.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161209115925.1" a="E"><vh>第十二週</vh>
+<v t="leo.20161209115925.1"><vh>第十二週</vh>
 <v t="leo.20161209115925.2" a="E"><vh>第十二週</vh>
 <v t="leo.20161209115925.3"><vh>要做的事</vh></v>
 </v>
@@ -1347,7 +1347,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161216110749.3">## 第七週
 
-####練習四連桿機構繪畫
+####練習四連桿機構繪畫,熟悉Solvespace的使用方式
 
 </t>
 <t tx="leo.20161216110749.4">&lt;section data-markdown&gt;
@@ -1359,9 +1359,9 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161216110749.5">####
+<t tx="leo.20161216110749.5">####可以大概了解Solvespace的作畫模式,但是在畫的過程中經常運算錯誤,調整限制條件有點麻煩
 
-####
+
 </t>
 <t tx="leo.20161216110749.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1398,7 +1398,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161216110855.3">## 第八週
 
-####
+####填寫期中自我評量表
 
 </t>
 <t tx="leo.20161216110855.4">&lt;section data-markdown&gt;
