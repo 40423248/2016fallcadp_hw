@@ -18,3 +18,6 @@ cdt Week1
 
 
 ####自選組員, 確定各組組長學號, 組長再設為[課程倉儲] (https://github.com/mdecourse/2016fallcadp) 的協同者, 負責協助管理這個倉儲, 並管理組員對倉儲的 pull requests
+
+<iframe src="https://player.vimeo.com/video/187143262" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/187143262">cadp測試W1</a> from <a href="https://vimeo.com/user46447136">40423248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -284,7 +284,7 @@
 <v t="leo.20170106115841.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161115164036.1" a="E"><vh>影片連結</vh>
+<v t="leo.20161115164036.1"><vh>影片連結</vh>
 <v t="leo.20161115164036.8"><vh>導入影片1</vh>
 <v t="leo.20161115164036.9"><vh>iframe 導入影片</vh></v>
 </v>
@@ -297,8 +297,11 @@
 <v t="leo.20161115164036.14"><vh>導入影片4</vh>
 <v t="leo.20161115164036.15"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20170112145757.1"><vh>導入影片5</vh>
+<v t="leo.20170112145757.1" a="E"><vh>導入影片5</vh>
 <v t="leo.20170112145757.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20170112170329.1"><vh>導入影片6</vh>
+<v t="leo.20170112170329.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -1884,6 +1887,21 @@ DEFAULT_DATE = 'fs'</t>
 &lt;iframe src="https://player.vimeo.com/video/199116276" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/199116276"&gt;Solvespace 四連桿機構模擬測試&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
+<t tx="leo.20170112170329.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112170329.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/199125162" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199125162"&gt;OnShape小組繪圖測試&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others

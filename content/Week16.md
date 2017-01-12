@@ -20,3 +20,6 @@ bnm
 <a href="https://cad.onshape.com/documents/b580d019a0de0daf8e47d703/w/9b30a383f6ffc2fc013464f1/e/be4df0d1f0c084c5e807324a>P2</a>
 
 <a href="https://cad.onshape.com/documents/b580d019a0de0daf8e47d703/w/9b30a383f6ffc2fc013464f1/e/abda9011943f1aea55321149>AS1</a>
+
+<iframe src="https://player.vimeo.com/video/199125162" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/199125162">OnShape小組繪圖測試</a> from <a href="https://vimeo.com/user46447136">40423248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
