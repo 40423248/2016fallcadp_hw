@@ -207,7 +207,7 @@
 <v t="leo.20161216114421.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161223113150.1" a="E"><vh>第十四週</vh>
+<v t="leo.20161223113150.1"><vh>第十四週</vh>
 <v t="leo.20161223113150.2" a="E"><vh>第十四週</vh>
 <v t="leo.20161223113150.3"><vh>要做的事</vh></v>
 </v>
@@ -230,8 +230,8 @@
 <v t="leo.20161223113150.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161223113226.1" a="E"><vh>第十五週</vh>
-<v t="leo.20161223113226.2"><vh>第十五週</vh>
+<v t="leo.20161223113226.1"><vh>第十五週</vh>
+<v t="leo.20161223113226.2" a="E"><vh>第十五週</vh>
 <v t="leo.20161223113226.3"><vh>要做的事</vh></v>
 </v>
 <v t="leo.20161223113226.4" a="E"><vh>圖片</vh>
@@ -242,9 +242,9 @@
 </v>
 <v t="leo.20161223113226.8" a="E"><vh>圖片3</vh>
 <v t="leo.20161223113226.9"><vh>截圖3</vh></v>
-</v>
 <v t="leo.20161223113226.10" a="E"><vh>心得</vh>
 <v t="leo.20161223113226.11"><vh>感想</vh></v>
+</v>
 </v>
 <v t="leo.20161223113226.12" a="E"><vh>相關課程</vh>
 <v t="leo.20161223113226.13"><vh>電腦輔助設計系列課程</vh></v>
@@ -270,7 +270,7 @@
 <v t="leo.20170106100041.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20170106115841.1" a="E"><vh>第十七週</vh>
+<v t="leo.20170106115841.1"><vh>第十七週</vh>
 <v t="leo.20170106115841.2" a="E"><vh>第十七週</vh>
 <v t="leo.20170106115841.3"><vh>要做的事</vh></v>
 </v>
@@ -284,7 +284,7 @@
 <v t="leo.20170106115841.13"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
-<v t="leo.20161115164036.1"><vh>影片連結</vh>
+<v t="leo.20161115164036.1" a="E"><vh>影片連結</vh>
 <v t="leo.20161115164036.8"><vh>導入影片1</vh>
 <v t="leo.20161115164036.9"><vh>iframe 導入影片</vh></v>
 </v>
@@ -296,6 +296,9 @@
 </v>
 <v t="leo.20161115164036.14"><vh>導入影片4</vh>
 <v t="leo.20161115164036.15"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20170112145757.1"><vh>導入影片5</vh>
+<v t="leo.20170112145757.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -1645,7 +1648,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113226.3">## 第十五週
 
-####把上禮拜組合好的部件圖檔slvs轉換成html網頁格式,放到個人網誌上
+####試著用Solvespace和OnShape來組立3D Delta Printer
 </t>
 <t tx="leo.20161223113226.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1658,7 +1661,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113226.5">####圖片1
 
-&lt;img src="" width= "800" /&gt;
+&lt;img src="3D Printer v1.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113226.6">&lt;section data-markdown&gt;
@@ -1672,7 +1675,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113226.7">####圖片2
 
-&lt;img src="" width= "800" /&gt;
+&lt;img src="3D Printer v2.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20161223113226.8">&lt;section data-markdown&gt;
@@ -1686,7 +1689,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161223113226.9">####圖片3
 
-&lt;img src="" width= "800" /&gt;
+&lt;img src="3D Printer  OnShape.png" width= "800" /&gt;
 
 </t>
 <t tx="leo.20170106100041.1">&lt;section&gt;
@@ -1864,6 +1867,22 @@ DEFAULT_DATE = 'fs'</t>
 
 &lt;img src="data/P1.png" width= "800" /&gt;
 
+</t>
+<t tx="leo.20170112145757.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112145757.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/199116276" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199116276"&gt;Solvespace 四連桿機構模擬測試&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
