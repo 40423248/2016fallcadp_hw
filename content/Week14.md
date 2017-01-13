@@ -8,10 +8,10 @@ jkloo Week14
 
 了解另外的四連桿機構,由線架構來得知運動路徑
 
-<img src="./../fourbar.png" width= "800" />
+<img src="./../data/fourbar.png" width= "800" />
 
-<img src="./../fourbar30.png" width= "800" />
+<img src="./../data/fourbar30.png" width= "800" />
 
-<img src="./../fourbar50.png" width= "800" />
+<img src="./../data/fourbar50.png" width= "800" />
 
-<img src="./../fourbar60.png" width= "800" />
+<img src="./../data/fourbar60.png" width= "800" />

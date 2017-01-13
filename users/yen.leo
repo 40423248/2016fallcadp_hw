@@ -297,7 +297,7 @@
 <v t="leo.20161115164036.14"><vh>導入影片4</vh>
 <v t="leo.20161115164036.15"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20170112145757.1" a="E"><vh>導入影片5</vh>
+<v t="leo.20170112145757.1"><vh>導入影片5</vh>
 <v t="leo.20170112145757.2"><vh>iframe 導入影片</vh></v>
 </v>
 <v t="leo.20170112170329.1"><vh>導入影片6</vh>
@@ -1851,7 +1851,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20170106115841.3">## 第十七週
 
-####用OnShape畫出課程指定的連桿機構零件,在限制各部位的條件
+####
 
 
 
@@ -1868,7 +1868,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20170106115841.5">####圖片1
 
-&lt;img src="data/P1.png" width= "800" /&gt;
+&lt;img src="" width= "800" /&gt;
 
 </t>
 <t tx="leo.20170112145757.1">&lt;section data-markdown&gt;

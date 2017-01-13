@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall Week1</title><link href="./2016fall-week1.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2016-09-02:./2016fall-week1.html</id><summary type="html">&lt;p&gt;cdt Week1&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall Week1</title><link href="./2016fall-week1.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2016-09-02:./2016fall-week1.html</id><summary type="html">&lt;p&gt;cdt Week1&lt;/p&gt;
 &lt;h2&gt;第一週&lt;/h2&gt;
 &lt;h4&gt;登入既有的Github倉儲,並Fork(https://github.com/mdecourse/2016fallcadp)&lt;/h4&gt;
 &lt;h4&gt;建立 2016fallcadp_hw 倉儲, 將分支設為 gh-pages&lt;/h4&gt;

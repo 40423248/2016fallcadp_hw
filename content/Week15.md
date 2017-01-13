@@ -8,8 +8,8 @@ bnm Week15
 
 試著用Solvespace和OnShape來組立3D Delta Printer
 
-<img src="./../3D Printer v1.png" width= "800" />
+<img src="./../data/3D Printer v1.png" width= "800" />
 
-<img src="./../3D Printer v2.png" width= "800" />
+<img src="./../data/3D Printer v2.png" width= "800" />
 
-<img src="./../3D Printer  OnShape.png" width= "800" />
+<img src="./../data/3D Printer  OnShape.png" width= "800" />
