@@ -274,14 +274,28 @@
 <v t="leo.20170106115841.2" a="E"><vh>第十七週</vh>
 <v t="leo.20170106115841.3"><vh>要做的事</vh></v>
 </v>
-<v t="leo.20170106115841.4" a="E"><vh>圖片</vh>
-<v t="leo.20170106115841.5"><vh>截圖</vh></v>
-</v>
 <v t="leo.20170106115841.10" a="E"><vh>心得</vh>
 <v t="leo.20170106115841.11"><vh>感想</vh></v>
 </v>
 <v t="leo.20170106115841.12" a="E"><vh>相關課程</vh>
 <v t="leo.20170106115841.13"><vh>電腦輔助設計系列課程</vh></v>
+</v>
+</v>
+<v t="leo.20170113093905.1"><vh>第十八週</vh>
+<v t="leo.20170113093905.2" a="E"><vh>第十八週</vh>
+<v t="leo.20170113093905.3"><vh>要做的事</vh></v>
+</v>
+<v t="leo.20170113093905.4" a="E"><vh>要做的事2</vh>
+<v t="leo.20170113093905.5"><vh>2</vh></v>
+</v>
+<v t="leo.20170113104930.1" a="E"><vh>要做的事3</vh>
+<v t="leo.20170113104930.2"><vh>3</vh></v>
+</v>
+<v t="leo.20170113093905.6" a="E"><vh>心得</vh>
+<v t="leo.20170113093905.7"><vh>感想</vh></v>
+</v>
+<v t="leo.20170113093905.8" a="E"><vh>相關課程</vh>
+<v t="leo.20170113093905.9"><vh>電腦輔助設計系列課程</vh></v>
 </v>
 </v>
 <v t="leo.20161115164036.1"><vh>影片連結</vh>
@@ -341,6 +355,7 @@
 <v t="leo.20161223114350.1"><vh>@edit Week15.md</vh></v>
 <v t="leo.20170106100740.1"><vh>@edit Week16.md</vh></v>
 <v t="leo.20170106115917.1"><vh>@edit Week17.md</vh></v>
+<v t="leo.20170113093931.1"><vh>@edit Week18.md</vh></v>
 </v>
 </v>
 </v>
@@ -1851,24 +1866,10 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20170106115841.3">## 第十七週
 
-####
+####老師解說V-rep的功能和公司背景,還有檢查每個人的作業
 
 
 
-
-</t>
-<t tx="leo.20170106115841.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170106115841.5">####圖片1
-
-&lt;img src="" width= "800" /&gt;
 
 </t>
 <t tx="leo.20170112145757.1">&lt;section data-markdown&gt;
@@ -1902,6 +1903,101 @@ DEFAULT_DATE = 'fs'</t>
 
 &lt;iframe src="https://player.vimeo.com/video/199125162" width="640" height="344" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/199125162"&gt;OnShape小組繪圖測試&lt;/a&gt; from &lt;a href="https://vimeo.com/user46447136"&gt;40423248&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170113093905.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20170113093905.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113093905.3">## 第十八週
+
+####在這門課要學的有
+1. 創造力三元素:
+是對於自學,程式,想像等三種能力的結合,在課程中或是課外所學的東西及自己的想法用程式來表達
+
+2. 6種表達方式:
+主要是集合成影片的方式來解說每一週學到的東西,用影音,圖片來表達
+
+
+
+
+</t>
+<t tx="leo.20170113093905.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113093905.5">####2
+
+####3. 可攜式 Python3 程式環境:
+用minifallana放在隨身碟裡在電腦中建立可攜式環境,到任何地方都可以編輯
+
+4. Solvespace 參數 3D 繪圖系統:
+繪畫出基本的3D零件及互相配合,但是不能做太複雜的組件,運算會出現錯誤
+
+
+</t>
+<t tx="leo.20170113093905.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113093905.7">####用
+
+</t>
+<t tx="leo.20170113093905.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113093905.9"># CAD 系列課程
+
+## 計算機程式
+## 網際內容管理
+&lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
+## 協同產品設計實習
+也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
+
+</t>
+<t tx="leo.20170113104930.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113104930.2">####3
+
+####5. Onshape 雲端參數 3D 繪圖系統:
+用即時的網路雲端繪圖軟體來做課程範例的繪圖,還有小組的作業繪製,包含Onshape Tutorial,Delta 3D Printer,Fourbar Linkage,Nutcracker
+
+6. ShareX 取畫面圖像與操作影片錄製:
+這個軟體可以錄製螢幕畫面及螢幕截圖,但是有一定的機率出問題,原因不明,強制結合雲端的功能不是很方便
+
+</t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
